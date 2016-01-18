@@ -1,6 +1,7 @@
 ## Anyfin Can Lethal - A plugin for Hearthstone Deck Tracker
 
 [Download stable](https://github.com/falconmick/AnyfinCanLethal/raw/master/dist/AnyfinCanLethal.dll)
+
 Currently in early development. All you have to do is copy the .dll generated into your hearhstone deck tracker plugin folder and away you go :)
 
 ## Working
